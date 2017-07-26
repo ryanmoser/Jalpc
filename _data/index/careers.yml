@@ -28,16 +28,16 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-  - name:
+- name:
     detail: Pureline Treatment Systems
-    i18n: company_b
+    i18n: company_c
   desc:
     detail: #
-    i18n: company_b_desc
+    i18n: company_c_desc
   date:
     detail: June 2012 - Aug 2012
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail: Engineering Intern
-    i18n: company_b_job
+    i18n: company_c_job
   icon: fa-plus-square

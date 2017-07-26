@@ -35,9 +35,7 @@
     detail: #
     i18n: company_b_desc
   date:
-    detail: >
-			June 2014 - Aug 2014 
-			June 2012 - Aug 2012
+    detail: June 2012 - Aug 2012
     i18n: company_b_date
   job:
     detail: Engineering Intern

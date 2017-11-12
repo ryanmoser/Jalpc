@@ -7,7 +7,6 @@
   repo: Birdo
   img: /static/assets/img/landing/jekyll.png
   desc: A simple defense style Android game with influence from Missle Command (1980).
-	
  
 - name: Tea-Emporium
   i18n: tea emporium

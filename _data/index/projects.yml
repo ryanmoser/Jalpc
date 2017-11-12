@@ -1,9 +1,17 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Proj name
-  i18n: proj name
+- name: Birdo
+  i18n: birdo
   gh_user: ryanmoser
-  repo: projectrepo
+  repo: Birdo
   img: /static/assets/img/landing/jekyll.png
-  desc: Project descript goes here.
+  desc: A simple defense style Android game with influence from Missle Command (1980).
+	
+ 
+- name: Tea-Emporium
+  i18n: tea emporium
+  gh_user: ryanmoser
+  repo: Birdo
+  img: /static/assets/img/landing/jekyll.png
+  desc: A tea exchange app for use with coworkers.

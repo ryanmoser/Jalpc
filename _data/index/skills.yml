@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C#, Unity, C++, Java, GUI, Animation
-percentage: 0, 0, 0, 0, 0, 0, 0
+aspects: C#, Unity, Animation, Java, GUI, C++
+percentage: 7, 8, 6, 5, 8, 4

@@ -11,6 +11,6 @@
 - name: Tea-Emporium
   i18n: tea emporium
   gh_user: ryanmoser
-  repo: Birdo
+  repo: Tea-Emporium
   img: /static/assets/img/landing/jekyll.png
   desc: A tea exchange app for use with coworkers.

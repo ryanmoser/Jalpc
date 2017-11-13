@@ -2405,8 +2405,8 @@ body.landing-page {
 }
 
 .landing-page .testimonials {
-  padding-top: 80px;
-  padding-bottom: 90px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: #3385FF;
   background-image: url(../img/landing/avatar_all.png);
 }

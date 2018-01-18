@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv:  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-unity
+    - name: icon-csharp
     - name: fa-android
   skill_icon2:
     - name: icon-3dprint
-    - name: icon-csharp
+    - name: icon-unity
   desc: Engineer and hobby coder.  # Describe yourself.
 
 # comment

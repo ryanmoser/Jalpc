@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Ryan Moser _ Under Construction
+title: Home
 description: Ryan's blog.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -23,10 +23,10 @@ author:  # change following line to your infomation.
   cv:  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-csharp
     - name: icon-unity
+    - name: fa-android
   skill_icon2:
-    - name: icon-unity
+    - name: icon-3dprint
     - name: icon-csharp
   desc: Engineer and hobby coder.  # Describe yourself.
 

@@ -16,7 +16,7 @@
   job:
     detail: Controls Engineer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fab fa-connectdevelop
 
 - name:
     detail: Navistar International
@@ -32,7 +32,7 @@
   job:
     detail: Software Engineering Intern
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fab fa-connectdevelop
 
 - name:
     detail: Pureline Treatment Systems
@@ -48,4 +48,4 @@
   job:
     detail: Engineering Intern
     i18n: company_c_job
-  icon: fa-plus-square
+  icon: fab fa-connectdevelop

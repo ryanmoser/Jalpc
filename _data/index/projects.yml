@@ -1,16 +1,23 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: ryemoss.com
+  i18n: ryemoss.com
+  gh_user: ryemoss
+  repo: Artsite
+  img: /static/assets/img/landing/wwwicon.png
+  desc: Personal website for testing code and sharing my art.
+
 - name: Birdo
   i18n: birdo
-  gh_user: ryanmoser
+  gh_user: ryemoss
   repo: Birdo
   img: /static/assets/img/landing/jekyll.png
   desc: A simple defense style Android game with influence from Missle Command (1980).
- 
+
 - name: Tea-Emporium
   i18n: tea emporium
-  gh_user: ryanmoser
+  gh_user: ryemoss
   repo: Tea-Emporium
   img: /static/assets/img/landing/jekyll.png
   desc: A tea exchange app for use with coworkers.

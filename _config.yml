@@ -30,21 +30,12 @@ author:  # change following line to your infomation.
     - name: icon-javascript
   desc: Engineer, designer, coder.  # Describe yourself.
 
-# comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  # name: jalpc
-
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
   # id:
 
-## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
-
-## donation
-donation: off  # type 'on'/'off' to choice display donation button at post page or not
+donation: off
 
 ## carousels
 index_carousel: on

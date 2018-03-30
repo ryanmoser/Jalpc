@@ -3,7 +3,7 @@ layout: post
 title:  "Unity - Nanograde gameplay gif"
 date:   2018-03-5
 desc: "Testing monster movement and attacks"
-keywords: "unity, nanograde, game design, pixelated, animations"
+keywords: "unity,nanograde,game-design,pixelated,animations"
 categories: [Unity,C#]
 tags: [Unity,C#]
 icon: icon-csharp

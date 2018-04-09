@@ -8,6 +8,13 @@
   img: /static/assets/img/landing/wwwicon.png
   desc: Personal website for testing code and sharing my art.
 
+- name: Net-graph JS Animation
+  i18n: netgraph js animation
+  gh_user: ryemoss
+  repo: Netgraph-Animation
+  img: /static/assets/img/landing/logo-js.png
+  desc: A purely javascript and canvas based net graph animation.
+
 - name: Birdo
   i18n: birdo
   gh_user: ryemoss

@@ -22,8 +22,8 @@
     detail: Navistar International
     i18n: company_b
   desc:
-    detail: "- Created full stack applications using C#, Matlab, and various .NET APIs to automate processes <br>
-			 - Developed C# functions to test the software requirements of vehicle ECUs  <br>
+    detail: "- Created full stack applications using C-sharp, Matlab, and various .NET APIs to automate processes <br>
+			 - Developed C-sharp functions to test the software requirements of vehicle ECUs  <br>
 			 - Wrote shell scripts to assist engineers using engine simulation systems systems"
     i18n: company_b_desc
   date:

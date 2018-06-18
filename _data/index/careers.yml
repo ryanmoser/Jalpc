@@ -38,9 +38,9 @@
     detail: Pureline Treatment Systems
     i18n: company_c
   desc:
-    detail: "- Designed new and revised existing Solidworks drawings of company products <br>
-			 - Created CAD electrical drawings to standardize the manufacturing process of eletrical equipment <br>
-			 - Produced generator build procedures to streamline the build process"
+    detail: "- Front-end development of company website in HTML, CSS, & Javascript <br>
+			 - Designed new and revised existing Solidworks drawings of company products <br>
+			 - Created CAD electrical drawings to standardize the manufacturing process of eletrical equipment"
     i18n: company_c_desc
   date:
     detail: June 2012 - Aug 2012

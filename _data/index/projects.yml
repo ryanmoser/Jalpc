@@ -28,3 +28,10 @@
   repo: Tea-Emporium
   img: /static/assets/img/landing/jekyll.png
   desc: A tea exchange app for use with coworkers.
+
+- name: sludgeprobe.com
+  i18n: sludgeprobe.com
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/wwwicon.png
+  desc: Product website with mail & simple ecommerce.

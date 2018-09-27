@@ -27,9 +27,9 @@
   desc:
     detail: " - Created applications using C#, Matlab, and various .NET APIs to automate processes <br>
               - Developed C# unit functions to test the software requirements of vehicle Electronic Control Units <br>
-	      - Made a Simulink program for task automation, saving an estimated $16k/year in man-hours <br>
-	      - Wrote shell scripts to assist engineers using engine simulation systems <br>
-	      - Developed a UI to improve the ease of use of the Command Prompt based version control system
+              - Made a Simulink program for task automation, saving an estimated $16k/year in man-hours <br>
+              - Wrote shell scripts to assist engineers using engine simulation systems <br>
+              - Developed a UI to improve the ease of use of the Command Prompt based version control system
 
     i18n: company_b_desc
   date:
@@ -46,9 +46,9 @@
   desc:
     detail: " - Make front-end updates to company website using HTML, CSS, & Javascript <br>
               - Designed and revised Solidworks drawings of company products <br>
-	      - Created CAD electrical drawings for documentation and manufacturing <br>
-	      - Produced build procedures to streamline the fabrication of ClO2 generators <br>
-	      - Collaborated with engineering director to modify and improve company products
+              - Created CAD electrical drawings for documentation and manufacturing <br>
+              - Produced build procedures to streamline the fabrication of ClO2 generators <br>
+              - Collaborated with engineering director to modify and improve company products
 
     i18n: company_c_desc
   date:

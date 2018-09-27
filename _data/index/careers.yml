@@ -4,10 +4,13 @@
     detail: Burns & McDonnell
     i18n: company_a
   desc:
-    detail: "- Design electrical control systems for new and existing energy utility power plants <br>
-			 - Update and develop DCS, HMI, and PLC logic for plant and subsystem operation  <br>
-			 - Produce technical specifications and manage equipment contracts for suppliers and clients <br>
-			 - Provide on-site support during construction, commissioning, and startup"
+    detail: " - Develop control system logic and operator graphics for power plant and subsystem operation <br>
+		 - Design electrical systems for new and existing energy utility power plants <br>
+		 - Provide on-site support during construction, commissioning, and startup <br>
+		 - Manage equipment contracts with suppliers ranging from $10k-$900k <br>
+		 - Produce specifications, data sheets, request for quotation, and technical bid summaries  <br>
+		 - Perform consulting services for clients to engineer systems and interface with equipment vendors 
+
 
     i18n: company_a_desc
   date:
@@ -22,9 +25,12 @@
     detail: Navistar International
     i18n: company_b
   desc:
-    detail: "- Created full stack applications using C#, Matlab, and various .NET APIs to automate processes <br>
-			 - Developed C# functions to test the software requirements of vehicle ECUs  <br>
-			 - Wrote shell scripts to assist engineers using engine simulation systems systems"
+    detail: " - Created applications using C#, Matlab, and various .NET APIs to automate processes
+		 - Developed C# unit functions to test the software requirements of vehicle Electronic Control Units 
+		 - Made a Simulink program for task automation, saving an estimated $16k/year in man-hours
+		 - Wrote shell scripts to assist engineers using engine simulation systems
+		 - Developed a UI to improve the ease of use of the Command Prompt based version control system
+
     i18n: company_b_desc
   date:
     detail: June 2013 - Aug 2013
@@ -38,9 +44,12 @@
     detail: Pureline Treatment Systems
     i18n: company_c
   desc:
-    detail: "- Front-end development of company website in HTML, CSS, & Javascript <br>
-			 - Designed new and revised existing Solidworks drawings of company products <br>
-			 - Created CAD electrical drawings to standardize the manufacturing process of eletrical equipment"
+    detail: " - Make front-end updates to company website using HTML, CSS, & Javascript	              
+		 - Designed and revised Solidworks drawings of company products
+		 - Created CAD electrical drawings for documentation and manufacturing
+		 - Produced build procedures to streamline the fabrication of ClO2 generators
+		 - Collaborated with engineering director to modify and improve company products
+
     i18n: company_c_desc
   date:
     detail: June 2012 - Aug 2012

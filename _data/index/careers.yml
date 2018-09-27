@@ -26,10 +26,10 @@
     i18n: company_b
   desc:
     detail: " - Created applications using C#, Matlab, and various .NET APIs to automate processes
-		 - Developed C# unit functions to test the software requirements of vehicle Electronic Control Units 
-		 - Made a Simulink program for task automation, saving an estimated $16k/year in man-hours
-		 - Wrote shell scripts to assist engineers using engine simulation systems
-		 - Developed a UI to improve the ease of use of the Command Prompt based version control system
+		- Developed C# unit functions to test the software requirements of vehicle Electronic Control Units 
+		- Made a Simulink program for task automation, saving an estimated $16k/year in man-hours
+		- Wrote shell scripts to assist engineers using engine simulation systems
+		- Developed a UI to improve the ease of use of the Command Prompt based version control system
 
     i18n: company_b_desc
   date:

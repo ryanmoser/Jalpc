@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C#, Java, C++, HTML, JavaScript, AngularJS, ReactJS, Python, SQL
-percentage: 4.5, 3, 3.5, 4, 4, 3, 3.5, 3, 3
+aspects: C#, Java, C++, HTML, JavaScript, AngularJS, ReactJS, VueJS, Python, SQL
+percentage: 4.5, 3, 3.5, 4, 4, 3, 3, 3.5, 3, 3

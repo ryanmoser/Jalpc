@@ -35,3 +35,10 @@
   repo:
   img: /static/assets/img/landing/wwwicon.png
   desc: Product website with mail & simple ecommerce.
+
+- name: Galaguh
+  i18n: galaguh
+  gh_user: ryemoss
+  repo: PixiJs.galaguh
+  img: /static/assets/img/landing/logo-js.png
+  desc: Super simple game built using PixiJS
